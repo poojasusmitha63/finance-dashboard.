@@ -1,7 +1,7 @@
 # Finance Dashboard
 
 ## Live Demo
-https://your-vercel-link.vercel.app
+https://finance-dashboard-b4i5.vercel.app/
 
 ## Description
 A React-based finance dashboard that allows users to track income, expenses, and manage transactions.
